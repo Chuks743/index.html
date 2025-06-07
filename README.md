@@ -1,8 +1,8 @@
-index.html
+
+
 <!DOCTYPE html>
 <head>
   <meta charset="UTF-8">
- <img src="my resume pix" alt="my resume pix" width="150">
   <h1>MY RESUME</h1>
 </head>
 <hr/>
