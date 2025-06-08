@@ -53,7 +53,13 @@
   <h3>ACHIEVEMENTS</h3>
   <li>Provide high standard personal care and cleanliness for the elderly resulting in 100% rating.</li>
   <li>Commendation by my supervisor and patient’s relatives.</li>
-  <a href="hobbies.html">Hobbies</a>
+  <br>
+  <a href="hobbies.html">HOBBIES</a>
+  <li>Gaming</li>
+  <li>Sports</li>
+  <li>Listening to music(occasionally)</li>
+  <br>
+  <a href="Contact.html">CONTACT</a>
   
 
  
