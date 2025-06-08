@@ -60,6 +60,7 @@
   <li>Listening to music(occasionally)</li>
   <br>
   <a href="Contact.html">CONTACT</a>
+  <li>email:mrfix31@yahoo.com</li>
   
 
  
