@@ -1,8 +1,9 @@
-index.html
+
 <!DOCTYPE html>
+
 <head>
   <meta charset="UTF-8">
- <img src="my resume pix" alt="my resume pix" width="150">
+ <img src="https://github.com/user-attachments/assets/02366ea5-94bc-4ec5-ad03-5eb49782d7b9" alt="my photo jpg" width="150">
   <h1>MY RESUME</h1>
 </head>
 <hr/>
@@ -52,7 +53,8 @@ index.html
   <h3>ACHIEVEMENTS</h3>
   <li>Provide high standard personal care and cleanliness for the elderly resulting in 100% rating.</li>
   <li>Commendation by my supervisor and patient’s relatives.</li>
-  <img src="my resume pix" alt="my resume pix" width="150">
+  <a href="hobbies.html">Hobbies</a>
+  
 
  
   
