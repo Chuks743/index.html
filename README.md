@@ -61,6 +61,9 @@
   <br>
   <a href="Contact.html">CONTACT</a>
   <li>email:mrfix31@yahoo.com</li>
+  <li>Mobile 075......40</li>
+  <br>
+  <footer> <p>&copy; 2025 Chuks Nwankwo. All rights reserved.</p> </footer>
   
 
  
