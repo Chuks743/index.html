@@ -4,7 +4,9 @@
 <head>
   <meta charset="UTF-8">
  <img src="https://github.com/user-attachments/assets/02366ea5-94bc-4ec5-ad03-5eb49782d7b9" alt="my photo jpg" width="150">
-  <link rel="stylesheet" href= "style.css"/>
+  <link rel="stylesheet" 
+    href= "style.css"
+    />
   <h1>MY RESUME</h1>
 </head>
 <hr/>
